@@ -30,11 +30,11 @@ AWS 을 이용하여 RedMine 서비스 하기
 - 인스턴스 -> 우클릭 인스턴스 설정 -> 시스템 로그 가져오기 에서 확인 가능
 
 
-https://docs.bitnami.com/aws/faq/get-started/find-credentials/
+> https://docs.bitnami.com/aws/faq/get-started/find-credentials/
 
 ---------------------------------
 
-% bitnami에서 aws 연결은 안해도 됨
+ % bitnami에서 aws 연결은 안해도 됨
 
 
 
