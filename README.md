@@ -20,8 +20,8 @@ https://docs.bitnami.com/aws/faq/get-started/find-credentials/
 
 
 0. 인스턴스 시작 후 running 상태일떄 기재된 퍼블릭 DNS 및 IP 로 접속
-1
-2
-3
-4234
+
+
+
+
 
