@@ -30,6 +30,8 @@ AWS 을 이용하여 RedMine 서비스 하기
 
 https://docs.bitnami.com/aws/faq/get-started/find-credentials/
 
+---------------------------------
+
 % bitnami에서 aws 연결은 안해도 됨
 
 
